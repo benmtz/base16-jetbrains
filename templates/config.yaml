@@ -1,0 +1,9 @@
+base16.scheme.icls:
+  extension: .icls
+  output: base16.scheme.icls
+base16.theme.json:
+  extension: .json
+  output: base16.theme.json
+plugin.xml:
+  extension: .xml
+  output: plugin.xml

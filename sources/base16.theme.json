@@ -1,0 +1,56 @@
+{
+  "name": "base16",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/base16.scheme.icls",
+  "colors": {
+    "base00Hex": "#1d1f21",
+    "base01Hex": "#282a2e",
+    "base02Hex": "#373b41",
+    "base03Hex": "#969896",
+    "base04Hex": "#b4b7b4",
+    "base05Hex": "#c5c8cf",
+    "base06Hex": "#e0e0e0",
+    "base07Hex": "#ffffff",
+    "base08Hex": "#cc6666",
+    "base09Hex": "#de935f",
+    "base0AHex": "#f0c674",
+    "base0BHex": "#b5bd68",
+    "base0CHex": "#8abeb7",
+    "base0DHex": "#81a2be",
+    "base0EHex": "#b294bb",
+    "base0FHex": "#a3685a"
+  },
+  "ui": {
+    "*": {
+      "caretForeground": "base07Hex",
+      "disabledForeground": "base07Hex",
+      "background": "base00Hex",
+      "foreground": "base07Hex",
+      "inactiveBackground": "base00Hex",
+      "inactiveForeground": "base07Hex",
+      "selectionBackground": "base02Hex",
+      "selectionBackgroundInactive": "base00Hex",
+      "acceleratorForeground": "base07Hex",
+      "acceleratorSelectionForeground": "base07Hex",
+      "selectionForeground": "base07Hex",
+      "selectionForegroundInactive": "base07Hex",
+      "selectionInactiveBackground": "base00Hex",
+      "selectionInactiveForeground": "base07Hex",
+      "underlinedTabBackground": "base00Hex",
+      "underlinedTabForeground": "base07Hex"
+    },
+    "Borders": {
+      "ContrastBorderColor": "base00Hex",
+      "color": "base00Hex"
+    },
+    "FileColor": {
+      "Blue": "base00Hex",
+      "Green": "base00Hex",
+      "Orange": "base00Hex",
+      "Rose": "base00Hex",
+      "Violet": "base00Hex",
+      "Yellow": "base00Hex"
+    }
+  }
+}
