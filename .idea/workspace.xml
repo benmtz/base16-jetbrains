@@ -5,21 +5,16 @@
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/base16-intellij.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scripts/color_pick.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scripts/generate_template_from_source.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/render_templates.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scripts/test-data/test.expected.mustache" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/scripts/test-data/test.svg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sources/base16.scheme.icls" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sources/base16.theme.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/sources/plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base16.scheme.icls.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base16.theme.json.mustache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/plugin.xml.mustache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,16 +77,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="base16-intellij" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JAR Application.base16-intellij.jar">
     <configuration name="base16-intellij.jar" type="JarApplication" temporary="true">
       <option name="JAR_PATH" value="$PROJECT_DIR$/base16-intellij.jar" />
       <method v="2" />
@@ -106,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="base16-intellij" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.base16-intellij.jar" />
+      <item itemvalue="Plugin.Plugin" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
